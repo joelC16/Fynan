@@ -91,6 +91,7 @@ nav {
             line-height: 1;     
             font-size: 6.4rem;
             z-index: 1;
+            max-width: 80%;
         }
 
         p {
