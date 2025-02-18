@@ -81,7 +81,7 @@ nav {
     .first-part {
         display: flex;
         flex-direction: column;
-        align-items: center;
+        justify-items: center;
         margin: 30px 40px;
         color: white;
         width: 70%;
